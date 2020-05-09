@@ -1,0 +1,20 @@
+body{
+  background: url(images/background.jpg);
+}
+h1{
+  color: #FFFFFF;
+  font-size: 50px;
+  text-align: center;
+  background-image: url(images/darksteel.jpg);
+  background-position: center;
+}
+p{
+  width:auto;
+  background-color: #FFFFFF;
+  border-style: inset;
+  border-width: 3px;
+  border-color: #000000;
+  font-size: 15px;
+  line-height: 30px;
+  text-indent: 30px;
+}

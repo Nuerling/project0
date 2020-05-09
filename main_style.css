@@ -1,0 +1,34 @@
+body{
+  font-family: Arial;
+  color: #FFFFFF;
+  background: url(images/background.jpg);
+}
+h1 {
+  display: grid;
+  background-image: url(images/darksteel.jpg);
+  background-position: center;
+  font-size: 50px;
+  line-height: 100px;
+  margin-top: 15px;
+
+}
+h2{
+  font size: 25px;
+}
+ul {
+  width: 30%;
+  padding-right: 20px;
+  line-height: 60px;
+  background-image: url(images/darksteel.jpg);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-position: center;
+  color: #FFFFFF;
+  font-size: 30px;
+}
+a{
+  color: red;
+}
+a:active{
+  color: blue;
+}
